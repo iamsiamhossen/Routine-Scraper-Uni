@@ -1,0 +1,1689 @@
+{
+  "CSE-12": {
+    "batch": "CSE-12",
+    "schedule": {
+      "Sunday": [
+        {
+          "course": "(BA, IS)",
+          "code": "(BA, IS)",
+          "teacher": "MHR",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "(BPH,MB)",
+          "code": "(BPH,MB)",
+          "teacher": "PA",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " (Law)",
+          "code": " (Law)",
+          "teacher": "MAR",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": "(BCBT)",
+          "code": "(BCBT)",
+          "teacher": "IHT",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": "CSE 4207",
+          "code": "CSE 4207",
+          "teacher": " Md. Rahat Khan",
+          "room": "303",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 4103",
+          "code": " CSE 4103",
+          "teacher": " Md. Iftekhar Hossain Tushar",
+          "room": "302",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": " CSE 4201 (305)",
+          "code": " CSE 4201 (305)",
+          "teacher": " Abu Raihan",
+          "room": "305",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 4207",
+          "code": "CSE 4207",
+          "teacher": " Md. Rahat Khan",
+          "room": "304",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " (BCBT)",
+          "code": " (BCBT)",
+          "teacher": " Md. Iftekhar Hossain Tushar",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": " (BA, IS)",
+          "code": " (BA, IS)",
+          "teacher": "MHR",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 4201",
+          "code": " CSE 4201",
+          "teacher": " Abu Raihan",
+          "room": "305",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 4103",
+          "code": " CSE 4103",
+          "teacher": " Md. Iftekhar Hossain Tushar",
+          "room": "302",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": " CSE 4104",
+          "code": " CSE 4104",
+          "teacher": " Md. Iftekhar Hossain Tushar",
+          "room": "301",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 4202",
+          "code": " CSE 4202",
+          "teacher": " Abu Raihan",
+          "room": "307",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 4208",
+          "code": " CSE 4208",
+          "teacher": " Md. Rahat Khan",
+          "room": "306",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ]
+    }
+  },
+  "CSE-13": {
+    "batch": "CSE-13",
+    "schedule": {
+      "Sunday": [
+        {
+          "course": " CSE 4105",
+          "code": "CSE-4105",
+          "teacher": " Md. Roni Islam",
+          "room": "205",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " Null ",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "Null"
+        },
+        {
+          "course": " Null ",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": "CSE-4113",
+          "code": "CSE-4113",
+          "teacher": "Nikhat Rejoana Sadia",
+          "room": "304",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 4114",
+          "code": " CSE 4114",
+          "teacher": " Abu Raihan",
+          "room": "306",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lab"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "Null"
+        },
+        {
+          "course": "CSE-4106",
+          "code": "CSE-4106",
+          "teacher": "Md. Roni Islam",
+          "room": "307",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": "CSE-4107",
+          "code": "CSE-4107",
+          "teacher": "Rokeya Akter",
+          "room": "305",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE-4103",
+          "code": "CSE-4103",
+          "teacher": " Md. Iftekhar Hossain Tushar",
+          "room": "302",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": "CSE-4102",
+          "code": "CSE-4102",
+          "teacher": "Md. Harun-or-Rashid",
+          "room": "307",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "Null"
+        },
+        {
+          "course": "CSE-4113",
+          "code": "CSE-4113",
+          "teacher": " Nikhat Rejoana Sadia",
+          "room": "304",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": "CSE-4105",
+          "code": "CSE-4105",
+          "teacher": " Md. Roni Islam",
+          "room": "205",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "(BPH,MB)",
+          "code": "(BPH,MB)",
+          "teacher": " Rokeya Akter",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 4103 ",
+          "code": " CSE 4103 ",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "302",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": "CSE 4104",
+          "code": "CSE 4104",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "307",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 4101 ",
+          "code": " CSE 4101 ",
+          "teacher": "Dr. Md. Abdur Rahim",
+          "room": "303",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 4101 ",
+          "code": " CSE 4101 ",
+          "teacher": "Dr. Md. Abdur Rahim",
+          "room": "303",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 4107",
+          "code": " CSE 4107",
+          "teacher": " Rokeya Akter",
+          "room": "305",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ]
+    }
+  },
+   "CSE-14": {
+    "batch": "CSE-14",
+    "schedule": {
+      "Sunday": [
+        {
+          "course": "CSE 3204",
+          "code": "CSE 3204",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "307",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 3205",
+          "code": " CSE 3205",
+          "teacher": " Md. Hasibur Rahman",
+          "room": "302",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 3202 ",
+          "code": " CSE 3202 ",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "306",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 3203",
+          "code": " CSE 3203",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "303",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": " CSE 3201",
+          "code": " CSE 3201",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "303",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 3209",
+          "code": "CSE 3209",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "304",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": "CSE 3209",
+          "code": "CSE 3209",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "302",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 3205",
+          "code": "CSE 3205",
+          "teacher": " Md. Hasibur Rahman",
+          "room": "302",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 3206",
+          "code": " CSE 3206",
+          "teacher": " Md. Hasibur Rahman",
+          "room": "307",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": "CSE 3210 ",
+          "code": "CSE 3210 ",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "307",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 3299",
+          "code": " CSE 3299",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "307",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 3299",
+          "code": " CSE 3299",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "307",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 3201",
+          "code": "CSE 3201",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "303",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 3203",
+          "code": " CSE 3203",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "305",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 3207",
+          "code": " CSE 3207",
+          "teacher": "PAH",
+          "room": "305",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 3207",
+          "code": " CSE 3207",
+          "teacher": "PAH",
+          "room": "305",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 3208",
+          "code": " CSE 3208",
+          "teacher": "PAH",
+          "room": "307",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 3208",
+          "code": " CSE 3208",
+          "teacher": "PAH",
+          "room": "307",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lab"
+        }
+      ]
+    }
+  },
+  "CSE-15": {
+    "batch": "CSE-15",
+    "schedule": {
+       "Sunday": [
+        {
+          "course": " CSE 0613-3107 ",
+          "code": " CSE 0613-3107 ",
+          "teacher": " Md. Rahat Khan",
+          "room": "303",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-3104",
+          "code": " CSE 0613-3104",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "306",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lab"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": "  CSE 0613-3102",
+          "code": " CSE 0613-3102",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "307",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lab"
+        },
+        {
+          "course": "  CSE 0613-3102",
+          "code": " CSE 0613-3102",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "307",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lab"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": "CSE 0613-3103",
+          "code": "CSE 0613-3103",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "302",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-3105",
+          "code": " CSE 0613-3105",
+          "teacher": " Md. Tarequl Islam",
+          "room": "305",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0613-3109 ",
+          "code": "CSE 0613-3109 ",
+          "teacher": " Md. Hasibur Rahman",
+          "room": "304",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0613-3111",
+          "code": "CSE 0613-3111",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "302",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-3101",
+          "code": " CSE 0613-3101",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "305",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": " CSE 0613-3107",
+          "code": " CSE 0613-3107",
+          "teacher": " Md. Rahat Khan",
+          "room": "303",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-3103",
+          "code": " CSE 0613-3103",
+          "teacher": "Md. Iftekhar Hossain Tushar",
+          "room": "303",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-3105",
+          "code": " CSE 0613-3105",
+          "teacher": " Md. Tarequl Islam",
+          "room": "305",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "Null"
+        },
+        {
+          "course": "(Law)",
+          "code": "(Law)",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "303",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": " CSE 0613-3109",
+          "code": " CSE 0613-3109",
+          "teacher": " Md. Hasibur Rahman",
+          "room": "302",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-3101",
+          "code": " CSE 0613-3101",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "304",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0613-3108",
+          "code": " CSE 0613-3108",
+          "teacher": " Md. Rahat Khan",
+          "room": "306",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0613-3111",
+          "code": "CSE 0613-3111",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "304",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ]
+    }
+  },
+  "CSE-17": {
+    "batch": "CSE-17",
+    "schedule": {
+      "Sunday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0613-2104",
+          "code": " CSE 0613-2104",
+          "teacher": "Gazi Golam Faruqe",
+          "room": "307",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0613-2104",
+          "code": " CSE 0613-2104",
+          "teacher": "Gazi Golam Faruqe",
+          "room": "307",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0541-2101",
+          "code": " CSE 0541-2101",
+          "teacher": " Md. Harun-or-Rashid",
+          "room": "205",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0222-1101",
+          "code": "CSE 0222-1101",
+          "teacher": "DRK",
+          "room": "501",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0613-2103",
+          "code": " CSE 0613-2103",
+          "teacher": "Gazi Golam Faruqe",
+          "room": "303",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0311-2101",
+          "code": "CSE 0311-2101",
+          "teacher": "KH",
+          "room": "501",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0411-2101",
+          "code": " CSE 0411-2101",
+          "teacher": "JH",
+          "room": "304",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0714-1205",
+          "code": " CSE 0714-1205",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "304",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": " CSE 0714-1206",
+          "code": " CSE 0714-1206",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "306",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lab"
+        },
+        {
+          "course": "CSE 0311-2101",
+          "code": "CSE 0311-2101",
+          "teacher": " Kamrul Hasan",
+          "room": "501",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0541-2101",
+          "code": "CSE 0541-2101",
+          "teacher": "Md. Harun-or-Rashid",
+          "room": "501",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": " CSE 0612-2107",
+          "code": " CSE 0612-2107",
+          "teacher": " Nikhat Rejoana Sadia",
+          "room": "303",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-2103",
+          "code": " CSE 0613-2103",
+          "teacher": "Gazi Golam Faruqe",
+          "room": "303",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0714-1205",
+          "code": "CSE 0714-1205",
+          "teacher": " Md. Sadi Al Huda",
+          "room": "303",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0222-1101 ",
+          "code": " CSE 0222-1101 ",
+          "teacher": " Dr. Md. Rajaul Karim",
+          "room": "501",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": " CSE 0612-2107",
+          "code": " CSE 0612-2107",
+          "teacher": " Nikhat Rejoana Sadia",
+          "room": "303",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0612-2108 ",
+          "code": " CSE 0612-2108 ",
+          "teacher": " Mohammad Abdur Razzak",
+          "room": "307",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0411-2101 ",
+          "code": " CSE 0411-2101 ",
+          "teacher": " Jubayer Hossain",
+          "room": "304",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ]
+    }
+  },
+  "CSE-18": {
+    "batch": "CSE-18",
+    "schedule": {
+       "Sunday": [
+        {
+          "course": " CSE 0232-1201",
+          "code": " CSE 0232-1201",
+          "teacher": "Tahmin Sultana",
+          "room": "501",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-2101 ",
+          "code": " CSE 0613-2101 ",
+          "teacher": " Abu Raihan",
+          "room": "304",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0223-1101",
+          "code": "CSE 0223-1101",
+          "teacher": "MMR",
+          "room": "501",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0713-1104",
+          "code": "CSE 0713-1104",
+          "teacher": " Sakil Ahmed",
+          "room": "306",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": " CSE 0713-1103",
+          "code": " CSE 0713-1103",
+          "teacher": " Sakil Ahmed",
+          "room": "304",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0533-1201",
+          "code": " CSE 0533-1201",
+          "teacher": " Md. Matiur Rahman",
+          "room": "327",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0613-2102",
+          "code": " CSE 0613-2102",
+          "teacher": " Abu Raihan",
+          "room": "307",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0613-2102",
+          "code": " CSE 0613-2102",
+          "teacher": " Abu Raihan",
+          "room": "307",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lab"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": " CSE 0541-1201",
+          "code": " CSE 0541-1201",
+          "teacher": "Md. Harun-or-Rashid",
+          "room": "205",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-2102",
+          "code": " CSE 0613-2102",
+          "teacher": " Abu Raihan",
+          "room": "306",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0613-2102",
+          "code": " CSE 0613-2102",
+          "teacher": " Abu Raihan",
+          "room": "306",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": " CSE 0232-1201",
+          "code": " CSE 0232-1201",
+          "teacher": "Tahmin Sultana",
+          "room": "501",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0541-1201",
+          "code": "CSE 0541-1201",
+          "teacher": "Md. Harun-or-Rashid",
+          "room": "205",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0223-1101",
+          "code": "CSE 0223-1101",
+          "teacher": "MMR",
+          "room": "501",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0611-1203",
+          "code": "CSE 0611-1203",
+          "teacher": " Md. Rahat Khan",
+          "room": "305",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": "CSE 0713-1103 ",
+          "code": "CSE 0713-1103",
+          "teacher": " Sakil Ahmed",
+          "room": "304",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0533-1201",
+          "code": " CSE 0533-1201",
+          "teacher": " Md. Matiur Rahman",
+          "room": "327",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0613-2101",
+          "code": "CSE 0613-2101",
+          "teacher": " Abu Raihan",
+          "room": "302",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "CSE 0611-1203",
+          "code": "CSE 0611-1203",
+          "teacher": " Md. Hasibur Rahman",
+          "room": "305",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ]
+    }
+  },
+  "CSE-19": {
+    "batch": "CSE-19",
+    "schedule": {
+       "Sunday": [
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0533-1101",
+          "code": " CSE 0533-1101",
+          "teacher": " Md. Matiur Rahman",
+          "room": "324",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0611-1101",
+          "code": " CSE 0611-1101",
+          "teacher": " Md. Rahat Khan",
+          "room": "303",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": " CSE 0222-1101",
+          "code": " CSE 0222-1101",
+          "teacher": "DRK",
+          "room": "501",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+
+      "Monday": [
+        {
+          "course": " CSE 0541-1101",
+          "code": " CSE 0541-1101",
+          "teacher": "Md. Harun-or-Rashid",
+          "room": "501",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0232-1101",
+          "code": " CSE 0232-1101",
+          "teacher": "INY",
+          "room": "302",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0611-1101",
+          "code": " CSE 0611-1101",
+          "teacher": " Md. Rahat Khan",
+          "room": "303",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0613-1202 ",
+          "code": "CSE 0613-1202 ",
+          "teacher": " Md. Tarequl Islam",
+          "room": "306",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "lab"
+        },
+        {
+          "course": "CSE 0613-1202 ",
+          "code": "CSE 0613-1202 ",
+          "teacher": " Md. Tarequl Islam",
+          "room": "306",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lab"
+        }
+      ],
+      "Tuesday": [
+        {
+          "course": " CSE 0613-1201",
+          "code": " CSE 0613-1201",
+          "teacher": " Md. Tarequl Islam",
+          "room": "304",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0533-1102",
+          "code": " CSE 0533-1102",
+          "teacher": " Md. Matiur Rahman",
+          "room": "328",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0533-1102",
+          "code": " CSE 0533-1102",
+          "teacher": " Md. Matiur Rahman",
+          "room": "328",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lab"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ],
+      "Wednesday": [
+        {
+          "course": " CSE 0613-1202",
+          "code": " CSE 0613-1202",
+          "teacher": " Md. Tarequl Islam",
+          "room": "306",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0613-1202",
+          "code": " CSE 0613-1202",
+          "teacher": " Md. Tarequl Islam",
+          "room": "306",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lab"
+        },
+        {
+          "course": " CSE 0533-1101",
+          "code": " CSE 0533-1101",
+          "teacher": " Md. Matiur Rahman",
+          "room": "324",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "CSE 0222-1101",
+          "code": "CSE 0222-1101",
+          "teacher": "DRK",
+          "room": "501",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "lecture"
+        }
+      ],
+      "Thursday": [
+        {
+          "course": " CSE 0541-1101",
+          "code": " CSE 0541-1101",
+          "teacher": "Md. Harun-or-Rashid",
+          "room": "501",
+          "start": "08:30 AM",
+          "end": "09:55 AM",
+          "type": "lecture"
+        },
+        {
+          "course": "CSE 0232-1101",
+          "code": "CSE 0232-1101",
+          "teacher": "INY",
+          "room": "302",
+          "start": "10:00 AM",
+          "end": "11:25 AM",
+          "type": "lecture"
+        },
+        {
+          "course": " CSE 0613-1201",
+          "code": " CSE 0613-1201",
+          "teacher": " Md. Tarequl Islam",
+          "room": "304",
+          "start": "11:30 AM",
+          "end": "12:55 PM",
+          "type": "lecture"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "02:00 PM",
+          "end": "03:25 PM",
+          "type": "Null"
+        },
+        {
+          "course": "Null",
+          "code": "Null",
+          "teacher": "Null",
+          "room": "Null",
+          "start": "03:30 PM",
+          "end": "04:55 PM",
+          "type": "Null"
+        }
+      ]
+    }
+  }
+}
