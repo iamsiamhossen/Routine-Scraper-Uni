@@ -7,18 +7,34 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependency directories
+node_modules/
+dist/
+dist-ssr/
+
+# Local services or generated files
+services/
 *.local
+
+# Environment files (keep secrets safe)
+.env
+.env.local
+.env.*.local
+
+# Firebase / Google credentials
+firebase-key.json
+serviceAccountKey.json
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# OS specific
+Thumbs.db
